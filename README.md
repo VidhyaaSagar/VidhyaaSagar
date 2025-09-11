@@ -62,7 +62,7 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://leetcode.com/u/Vidhyaa_Sagar_Anbarasan/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagaranbu16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://leetcode.com/u/Vidhyaa_Sagar_Anbarasan/](https://www.linkedin.com/in/vidhyaa-sagar-a-snsinstutions/))[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagaranbu16@gmail.com)
 
 ---
 [![VidhyaaSagar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VidhyaaSagar&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/VidhyaaSagar/github-readme-activity-graph)
