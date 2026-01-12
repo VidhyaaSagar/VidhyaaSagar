@@ -28,7 +28,8 @@
 <img src="https://img.icons8.com/color/48/css3.png" height="35"/> 
 <img src="https://img.icons8.com/color/48/javascript.png" height="35"/> 
 <img src="https://img.icons8.com/color/48/bootstrap.png" height="35"/> 
-<img src="https://img.icons8.com/color/48/python.png" height="35"/>  
+<img src="https://img.icons8.com/color/48/python.png" height="35"/> 
+<img src="https://img.icons8.com/color/48/java.png" height="35"/> 
 <img src="https://img.icons8.com/color/48/mysql-logo.png" height="35"/>
 <img src="https://img.icons8.com/color/48/power-bi.png" height="35"/>
 <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="35"/>
