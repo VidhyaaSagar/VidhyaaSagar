@@ -17,8 +17,7 @@
 
 ### 🚀 **Currently Learning**:
 
-- `Data Structures & Algorithms` <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="28" height="28"/>
-- `React.js` for frontend development <img src="https://img.icons8.com/color/28/react-native.png" width="28" height="28"/>
+- `AI & ML | Python | NumPy | Pandas | Scikit-learn` <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="28" height="28"/>
 
 ---
 
@@ -35,6 +34,7 @@
 <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="35"/>
 <img src="https://img.icons8.com/color/48/git.png" height="35"/>
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="35"/>
+<img src="https://img.icons8.com/color/28/react-native.png" height="35"/>
 
 ---
 
