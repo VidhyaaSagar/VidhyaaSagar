@@ -36,7 +36,8 @@
 <img src="https://img.icons8.com/color/48/git.png" height="35"/>
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="35"/>
 <img src="https://img.icons8.com/color/28/react-native.png" height="35"/>
-<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="35"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
 
 
 ---
